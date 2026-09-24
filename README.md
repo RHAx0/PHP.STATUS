@@ -27,7 +27,7 @@ No databases, no frameworks, no external dependencies – just drop the file and
 ## Screenshots
 
 The dashboard shows live metrics for CPU, RAM, disk and network interfaces.
-![alt text]([https://github.com/[RHAx0]/[PHP.STATUS]/blob/[branch]/demo.png?raw=true)](https://raw.githubusercontent.com/RHAx0/PHP.STATUS/refs/heads/main/demo.png)
+<img src="https://raw.githubusercontent.com/RHAx0/PHP.STATUS/refs/heads/main/demo.png"></img>
 
 ## Quick Start
 

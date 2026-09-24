@@ -32,8 +32,10 @@ The dashboard shows live metrics for CPU, RAM, disk and network interfaces.
 ## Quick Start
 
 ```bash
-# Place status.php on your web server
-cp status.php /var/www/html/
+# Place status.php on your web server via shh
+curl -o /var/www/html/status.php https://raw.githubusercontent.com/RHAx0/PHP.STATUS/main/status.php
+or
+wget -O /var/www/html/status.php https://raw.githubusercontent.com/RHAx0/PHP.STATUS/main/status.php
 
 # Open in browser
 http://your-server/status.php
